@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on innovative projects in the field of artificial intelligence and deep learning, with a particular focus on convolutional neural networks and unsupervised learning models.<br><br>👯 I’m looking to collaborate on research projects that explore new frontiers in machine learning and AI applications that can have a significant impact on everyday life.<br><br>🤝 I’m looking for help with optimizing complex AI models and implementing scalable solutions.<br><br>🌱 I’m currently learning advanced techniques in reinforcement learning and natural language processing.<br><br>💬 Ask me about anything related to AI, deep learning, and machine learning. I'm always excited to discuss new ideas and solutions.<br><br>⚡ Fun fact: When I'm not immersed in AI, I love to explore the latest trends in technology and enjoy hiking in the mountains.
-
+🎓 I’m an Artificial Intelligence student at the University of Catania with a strong research-oriented mindset.<br><br>
+🔭 I’m currently working on advanced projects in **computer vision, deep learning, and mixed reality**, with a focus on **Human–Object Interaction (HOI)**, **egocentric vision**, and **synthetic data generation** for training robust neural models.<br><br>
+🧠 My main interests include **deep learning for visual understanding**, **3D scene reconstruction**, **sim-to-real transfer**, and **AI systems for augmented and wearable reality**.<br><br>
+👯 I’m open to collaborating on **research-driven projects**, especially those involving **PyTorch**, **3D vision**, **neural rendering**, or **AR/VR applications**.<br><br>
+🌱 I’m currently deepening my knowledge in **reinforcement learning**, **representation learning**, and **multimodal AI systems**.<br><br>
+💬 Ask me about **machine learning, computer vision, HOI datasets, synthetic environments, or research workflows**.<br><br>
+⚡ Fun fact: When I’m not coding or reading papers, I enjoy training calisthenics and exploring nature.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio-spoto-340b80171/) 
