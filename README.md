@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 
 **👨‍💻 Alfio Spoto | AI Researcher in Computer Vision**  
@@ -52,8 +51,3 @@ I specialize in the intersection of computer vision and industrial environments,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio-spoto-340b80171/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nameisalfio/)  
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=nameisalfio&icon=2&color=1)](https://visitcount.itsvg.in)  
-
-<!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
-
