@@ -14,15 +14,6 @@ I specialize in the intersection of computer vision and industrial environments,
 - **🌐 Sim-to-Real Transfer:** Bridging the gap between synthetic and real-world data for robust model training.  
 - **🛡️ PPE Detection:** Advancing safety with AI-powered recognition of protective gear like gloves and helmets.  
 - **🔗 Multimodal Fusion:** Combining RGB, depth, and hand-keypoint data for more resilient neural networks.  
-
----
-
-## 🌐 Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio-spoto-340b80171/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nameisalfio/)  
-📧 **Email:** [alfio.spoto@outlook.it](mailto:alfio.spoto@outlook.it)  
-
 ---
 
 ## 💻 Tech Stack:
@@ -49,11 +40,17 @@ I specialize in the intersection of computer vision and industrial environments,
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  
 
-
 ---
 
 ### ✍️ Dev Quote of the Day  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
+---
+
+## 🌐 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio-spoto-340b80171/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nameisalfio/)  
 
 ---
 
